@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE747A3a9BF30EB027488E8d2359aE6bAe0819d18",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe747a3a9bf30eb027488e8d2359ae6bae0819d18",
+  "NETWORK": {
+    "NAME": "Rinkeby Network",
+    "SYMBOL": "LINK",
+    "ID": 4
+  },
+  "NFT_NAME": "Staking Badge NFT",
+  "SYMBOL": "SBNFT",
+  "MAX_SUPPLY": 599,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/stakingbadge",
+  "SHOW_BACKGROUND": true
+}
